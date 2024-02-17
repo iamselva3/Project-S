@@ -1,4 +1,4 @@
-PROJECT TITTLE: Entertainment Appplication
+PROJECT TITTLE: Entertainment Application
 
 PROJECT DURATION: Dec,2023-Current
 
